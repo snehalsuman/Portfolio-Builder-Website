@@ -1,5 +1,8 @@
 # Digital Portfolio Builder
 
+
+<img width="1266" alt="Screenshot 2025-04-22 at 2 47 51 PM" src="https://github.com/user-attachments/assets/8e011f61-4257-4b77-81e8-51b92fd137d9" />
+
 A modern, responsive web application for creating and managing professional portfolios. Built with React, TypeScript, and a clean, Material-UI-free design.
 
 ## Features
